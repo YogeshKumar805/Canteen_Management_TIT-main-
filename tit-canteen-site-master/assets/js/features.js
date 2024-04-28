@@ -173,6 +173,7 @@ if (signUpModal){
                 <li><button><i class="fab fa-google" id="google-signUpIn"></i></button></li>
                 <li><button><i class="fab fa-github" id="github-signUpIn"></i></button></li>
                 <li><button><i class="fab fa-facebook" id="facebook-signUpIn"></i></button></li>
+                <li><button><i class="fab fa-instragram" id="instragram-signUpIn"></i></button></li>
         </ul>
         <!-- Sign Up Input's -->
         <form class="modal-form grid py-1 text-center" id="main-form" required>
@@ -218,6 +219,7 @@ if (signModal) {
             <li><button><i class="fab fa-google" id="google-signUpIn"></i></button></li>
             <li><button><i class="fab fa-github" id="github-signUpIn"></i></button></li>
             <li><button><i class="fab fa-facebook" id="facebook-signUpIn"></i></button></li>
+            <li><button><i class="fab fa-instragram" id="instragram-signUpIn"></i></button></li>
         </ul>
         <!-- Sign In Input's -->
         <form class="modal-form grid py-1 text-center" id="signIn-form">

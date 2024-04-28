@@ -1,4 +1,5 @@
-  // --- Authentication Part ---
+
+// --- Authentication Part ---
   // Your web app's Firebase configuration
   var firebaseConfig = {
     apiKey: "AIzaSyDBn5GMIvsqhTPMVAeylq-I_2R8SSJYzmI",
